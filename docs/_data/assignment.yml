@@ -4,8 +4,8 @@
 git-curr-branch:
 git-prev-branch: 
 # Link(s) to the external lesson(s) (e.g., a lesson on Code.org or TestOut).
-lesson1:
-lesson2:
+lesson1: https://studio.code.org/s/csd3-2019/stage/12/puzzle/1
+lesson2: https://studio.code.org/s/csd3-2019/stage/13/puzzle/1
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
 outcome:
@@ -17,4 +17,4 @@ starter-code-repo:
 starter-code-url:
 # Link to Google Doc template for assignment submission. Replace the end of the link "edit?..." with "copy"
 # to force creating a copy when the link is clicked.
-template: https://docs.google.com/document/d/1w_Irlct2oktRepHx_z66fPu7HhlETB0LqaB1nMNAE0E/copy
+template: https://docs.google.com/document/d/1w_Irlct2oktRepHx_z66fPu7HhlETB0LqaB1nMNAE0E
