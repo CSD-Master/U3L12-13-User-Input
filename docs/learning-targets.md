@@ -6,9 +6,10 @@ layout: tabbed-assignment
 
 By the end of this lesson, you will be able to:
 
-* 
-* 
-* 
+* Use conditionals to react to keyboard input
+* Move sprites in response to keyboard input
+* Use an if-else statement to control the flow of a program.
+* Respond to a variety of types of user input.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
