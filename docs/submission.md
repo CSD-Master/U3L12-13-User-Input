@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 After completing the lesson:
 
-1. Then, make a copy of the [submission template][template].
+1. Then, make a copy of the [submission template][template-copy].
 1. Rename the template and move it to your class folder on your Google Drive.
 1. Complete the template.
 1. Submit as usual.
@@ -18,4 +18,4 @@ After completing the lesson:
 {% if site.data.assignment.lesson1  %}[lesson1]:  <{{site.data.assignment.lesson1}}>  {% endif %}
 {% if site.data.assignment.lesson2  %}[lesson2]:  <{{site.data.assignment.lesson2}}>  {% endif %}
 {% if site.data.assignment.slides   %}[slides]:   <{{site.data.assignment.slides}}>   {% endif %}
-{% if site.data.assignment.template %}[template]: <{{site.data.assignment.template}}> {% endif %}
+{% if site.data.assignment.template %}[template-copy]: <{{site.data.assignment.template-copy}}> {% endif %}
